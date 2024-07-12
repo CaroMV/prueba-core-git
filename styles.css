@@ -1,0 +1,200 @@
+.menu{
+    border: solid 3px black;
+    width: 200px;
+    
+}
+.container{
+    border: solid 3px black;
+}
+.articulo{
+    border: solid 3px black;
+    text-align: center;
+}
+.largo{
+    border: solid 3px black;
+}
+.container{
+    display: flex;
+}
+
+.btn{
+    border: solid 2px cyan;
+    height: 50px;
+
+}
+.general{
+    border-color: 2px black;
+    text-align: center;
+    bottom: 2;
+    background-color: cyan;
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    transform: matrix(solid);
+
+}
+
+.general:hover {
+    background-color: red;
+
+}
+.palabras{
+    display: flex;
+    height: 140px;
+    width: 730px;
+border: solid 2px black;
+}
+
+img{
+    width: 20%;
+    height: auto;
+
+}
+
+.ladoimg{
+
+    height: 140;
+    width: 213;
+    border: solid 1px black;
+    text-align: center;
+    margin: 0px;
+
+}
+.derecha{
+    border: solid 1px black;
+    float: right;
+    margin-left: auto;
+    text-align: right;
+
+}
+.descripcion-1{
+    text-align: left;
+    width: 444px;
+}
+.cont{
+    text-align: right;
+}
+.one{
+    display: block;
+    text-align: right;
+}
+.calaca{
+    width: 20%;
+    height: auto;
+}
+.divino{
+    width: 20%;
+    height: auto;
+}
+.two{
+    display: block;
+    text-align: right;
+}
+.tres{
+    display: block;
+    text-align: right;
+}
+.esqueleto{
+    border-color: 2px black;
+    text-align: center;
+    bottom: 2;
+    background-color: cyan;
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    transform: matrix(solid);
+}
+.esqueleto:hover{
+    background-color: red;
+}
+.espadas{
+    border-color: 2px black;
+    text-align: center;
+    bottom: 2;
+    background-color: cyan;
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    transform: matrix(solid);
+}
+.espadas:hover{
+    background-color: red;
+}
+.numb-1{
+    display: flex;
+}
+.cont-1{
+    margin-right: auto;
+}
+.numb-2{
+    display: flex;
+}
+.cont-2{
+    margin-right: auto;
+}
+.numb-3{
+    display: flex;
+}
+.cont-3{
+    margin-right: auto;
+}
+.titulo{
+    display: block;
+    background-color: aqua;
+    color: white;
+    border-color: black;
+    
+}
+.trozo-1{
+    display: flex;
+    height: 50px;
+}
+.trozo-2{
+    display: flex;
+}
+.t2-1{
+    display: block;
+}
+.plata{
+    background-color: aqua;
+    border-color: aqua;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+.plata:hover{
+    color: darkviolet;
+    background-color: white;
+    border-color: darkviolet;
+}
+.busca-amigos{
+    background-color: aqua;
+    border-color: aqua;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+.info{
+    background-color: aqua;
+    border-color: aqua;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+.busca-amigos:hover{
+    color: darkviolet;
+    background-color: white;
+    border-color: darkviolet;
+}
+.info:hover{
+    color: darkviolet;
+    background-color: white;
+    border-color: darkviolet;
+}
+.encuentra{
+    color: white;
+    background-color: darkviolet;
+    border-color: black;
+    cursor: pointer;
+    margin-right: auto;
+}
